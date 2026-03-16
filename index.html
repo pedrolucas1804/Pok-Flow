@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>PokeSearch Mobile</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>PokeSearch</h1>
+            <div class="search-box">
+                <input type="text" id="pokemonInput" placeholder="Ex: Pikachu ou 25">
+                <button id="searchBtn">Buscar</button>
+            </div>
+        </header>
+
+        <main id="app">
+            <div id="card" class="card hidden">
+                <img src="" alt="Pokemon" id="pokeImage">
+                <h2 id="pokeName"></h2>
+                <div class="types" id="pokeTypes"></div>
+                <p id="pokeInfo"></p>
+            </div>
+            <p id="error" class="error hidden">Pokémon não encontrado. Tente novamente!</p>
+        </main>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>
