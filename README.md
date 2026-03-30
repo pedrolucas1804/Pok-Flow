@@ -8,7 +8,7 @@ O **RedLine Hub** é uma aplicação web progressiva (PWA) de alta performance d
 
 ## 🔗 Demonstração
 Acesse a aplicação no ar através do link abaixo:
-👉 **[CLIQUE AQUI PARA VER O REDLINE HUB](SEU_LINK_AQUI)**
+👉 **[CLIQUE AQUI PARA VER O REDLINE HUB](https://pedrolucas1804.github.io/RedLine-Hub/)**
 
 ---
 
